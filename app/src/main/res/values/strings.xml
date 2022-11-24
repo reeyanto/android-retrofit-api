@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android HTTP Request</string>
+    <string name="user">User</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+</resources>
